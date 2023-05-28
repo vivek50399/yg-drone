@@ -1,2 +1,1 @@
-# yg-drone
-Drone controller mobile application
+Here, we'll be creating an app that will allow us to control a drone without using a physical controller. We are able to operate the drone's fundamental controls like Aileron, Elevator, Rudder, Throttle Controls by using this software.
